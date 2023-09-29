@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fishforum/static/css/main.0028cfa3.css",
+    "main.js": "/fishforum/static/js/main.496136ff.js",
+    "static/js/787.6b8586a5.chunk.js": "/fishforum/static/js/787.6b8586a5.chunk.js",
+    "static/media/map.png": "/fishforum/static/media/map.ab5858ffa4fe98a90f1d.png",
+    "static/media/Onest-Medium.ttf": "/fishforum/static/media/Onest-Medium.9b984d60e7479a63ff46.ttf",
+    "static/media/kolxeti.ttf": "/fishforum/static/media/kolxeti.44fbd51447e57b7df804.ttf",
+    "static/media/logo.svg": "/fishforum/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fishforum/index.html",
+    "main.0028cfa3.css.map": "/fishforum/static/css/main.0028cfa3.css.map",
+    "main.496136ff.js.map": "/fishforum/static/js/main.496136ff.js.map",
+    "787.6b8586a5.chunk.js.map": "/fishforum/static/js/787.6b8586a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0028cfa3.css",
+    "static/js/main.496136ff.js"
+  ]
+}
